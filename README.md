@@ -40,6 +40,13 @@ library.
 extra credit: See if you can support other formats other then an png. 
 Use either the extension (${{identifier}}.png, or Accept Header).
 
+### References
+[image documentation)[http://godoc.org/image]
+[image/draw documentation)[http://godoc.org/iamge/draw]
+[net/http documentation](http://godoc.org/net/http]
+[Blog post on how to use image/draw standard library](http://blog.golang.org/go-imagedraw-package)
+
+
 ## 1,000 Vistors
 
 You have new customers. Getting new customers is great, but now they want you to
