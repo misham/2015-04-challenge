@@ -19,6 +19,8 @@ Create a web service using only the standard library, that when you hit a partic
 url it will return an png counting the number of times that url has been hit. Use
 the given png encoding the numbers 0-9, and the characters ",." to create the digits to display.
 
+![Numbers Mask](https://raw.githubusercontent.com/SDGophers/2015-04-challenge/master/images/numbers.png)
+
 The url should look like the following:
 
 GET http://localhost:8080/counter/${{identifier}}
